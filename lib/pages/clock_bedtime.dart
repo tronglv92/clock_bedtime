@@ -7,7 +7,7 @@ import 'dart:math' as math;
 import 'clock_custom.dart';
 import 'column_time.dart';
 
-const double SIZE = 300;
+const double SIZE = 200;
 
 class ClockBedtime extends StatefulWidget {
   @override
